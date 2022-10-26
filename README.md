@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Usman</h1>
 <h3 align="center">Hardcore Programmer</h3>
-<image src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="100%" height="100%"></image>
+<image src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="50%" height="50%"></image>
 
 - 🌱 I’m currently learning **Golang and devops**
 
