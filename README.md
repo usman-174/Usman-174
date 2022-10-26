@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Usman</h1>
 <h3 align="center">Hardcore Programmer</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-174&label=Profile%20views&color=0e75b6&style=flat" alt="usman-174" /> </p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><image src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" class="giphy-embed" ></image></div><p></p>
+<p align="left"></p>
 
 - 🌱 I’m currently learning **Golang and devops**
 
