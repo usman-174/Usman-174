@@ -1,7 +1,6 @@
 <h1 align="center">Yo 👋, I'm Usman</h1>
 <h3 align="center">Hardcore Programmer</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><image src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" class="giphy-embed" ></image></div><p></p>
-<p align="left"></p>
+<image src="https://giphy.com/embed/RbDKaczqWovIugyJmW](https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif)" width="100%" height="100%"></image>
 
 - 🌱 I’m currently learning **Golang and devops**
 
