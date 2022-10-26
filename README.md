@@ -10,7 +10,7 @@
 - 📫 How to reach me **hellmughal123@gmail.com**
 
 
-<div style="display:flex;align-items:center;justify-content:space-between">
+<div style="display:flex;align-items:center;justify-content:space-between;color:red">
   <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
