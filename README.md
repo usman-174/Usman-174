@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hellmughal123@gmail.com**
 
-<image  style="float: right;"src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="30%" height="30%"></image>
+<image  style="float:right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="30%" height="30%"></image>
 
 
 <h3 align="left">Connect with me:</h3>
