@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Usman</h1>
 <h3 align="center">Hardcore Programmer</h3>
 
-- 🌱 I’m currently learning **Golang and devops**
+-  🌱 The Perfect **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [jade-klepon-a25151.netlify.app/](jade-klepon-a25151.netlify.app/)
 
