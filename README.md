@@ -3,7 +3,7 @@
 
 -  🌱 The Perfect **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [jade-klepon-a25151.netlify.app/](jade-klepon-a25151.netlify.app/)
+- 👨‍💻 All of my projects are available at [jade-klepon-a25151.netlify.app/](https://jade-klepon-a25151.netlify.app/)
 
 - 💬 Ask me about **Mern stack development**
 
