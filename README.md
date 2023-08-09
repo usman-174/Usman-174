@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mern stack development**
 
-- 📫 How to reach me **hellmughal123@gmail.com**
+- 📫 How to reach me **usmanatcode@gmail.com**
 
 
 <image  style="margin-left:auto" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="30%" height="30%"></image>
