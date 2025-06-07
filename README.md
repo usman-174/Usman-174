@@ -1,24 +1,27 @@
 <h1 align="center">Hey there 👋, I'm Usman</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Specialist | Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | MERN Stack Specialist | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="300" />
+  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="300" alt="coding animation"/>
 </p>
+
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Passionate about building scalable **full stack web applications** with clean, maintainable code  
-- ⚙️ Focused on modern JavaScript ecosystems like **React, Node.js, Next.js, and MongoDB**
-- 🧠 Always learning, exploring backend optimization, microservices, cloud infrastructure, and advanced TypeScript
-- 💬 Ask me anything about **MERN stack**, **API design**, or **developer productivity**
+- 🔧 Full Stack Developer with hands-on experience building real-time, scalable web apps using **React, Next.js, Node.js, and MongoDB**
+- 🚀 Completed 60+ freelance projects with 5⭐ client ratings and built production-grade systems for startups and SaaS platforms
+- 🧠 Currently exploring **TypeScript at scale**, **cloud deployments**, **Redis**, and **system architecture for performance**
+- 💬 Ask me about API design, microservices, authentication, caching strategies, or anything MERN-related
 
-### 📫 Let's Connect
 
-- 📧 Email: [hellmughal123@gmail.com](mailto:hellmughal123@gmail.com)
-- 📸 Instagram: [@usman_mughal174](https://instagram.com/usman_mughal174)
-- 📘 Facebook: [Usman Mughal](https://www.facebook.com/7kumaaa/)
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: [hellmughal123@gmail.com](mailto:hellmughal123@gmail.com)  
+- 💼 LinkedIn: [Usman Mughal](https://www.linkedin.com/in/usmanmughal174)
 
 ---
 
