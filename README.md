@@ -1,53 +1,39 @@
-<h1 align="center">Hey there 👋, I'm Usman</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack Specialist | Problem Solver</h3>
+# Usman Mughal — Full Stack Developer
 
-<p align="center">
-  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" width="300" alt="coding animation"/>
-</p>
+I build production-grade web applications with a focus on performance, clean architecture, and shipping things that actually work. My primary stack is MERN (MongoDB, Express, React, Node.js), extended with Next.js for server-rendered and edge-deployed products.
 
+Currently deepening my work with TypeScript at scale, Redis, cloud infrastructure, and distributed system design.
 
 ---
 
-### 🚀 About Me
+## What I Work With
 
-- 🔧 Full Stack Developer with hands-on experience building real-time, scalable web apps using **React, Next.js, Node.js, and MongoDB**
-- 🚀 Completed 60+ freelance projects with 5⭐ client ratings and built production-grade systems for startups and SaaS platforms
-- 🧠 Currently exploring **TypeScript at scale**, **cloud deployments**, **Redis**, and **system architecture for performance**
-- 💬 Ask me about API design, microservices, authentication, caching strategies, or anything MERN-related
+**Frontend** — React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3, JavaScript (ES2022+)
 
+**Backend** — Node.js, Express.js, REST API design, microservices, authentication (JWT/OAuth), caching strategies
 
----
+**Data** — MongoDB, PostgreSQL, Firebase, Redis
 
-### 📫 Let’s Connect
-
-- 📧 Email: [hellmughal123@gmail.com](mailto:hellmughal123@gmail.com)  
-- 💼 LinkedIn: [Usman Mughal](https://www.linkedin.com/in/usmanmughal174)
+**Infrastructure & Tooling** — Docker, Git, cloud deployments (in progress), CI/CD pipelines
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Currently Exploring
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-</p>
+- TypeScript patterns for large codebases
+- Redis for session management and caching layers
+- System architecture for scalability and fault tolerance
+- Cloud-native deployment workflows
 
 ---
 
-### 📊 GitHub Stats
+## Get in Touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usman-174&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+**Email:** [hellmughal123@gmail.com](mailto:hellmughal123@gmail.com)
+**LinkedIn:** [linkedin.com/in/usmanmughal174](https://www.linkedin.com/in/usmanmughal174)
+
+---
+
+## GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=usman-174&locale=en&layout=compact&hide_border=true)
